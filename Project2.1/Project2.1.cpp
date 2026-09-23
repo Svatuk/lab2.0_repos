@@ -15,7 +15,7 @@ int main()
 	cout << "a = "; cin >> a;
 	z1 = 1 - 0.25 * (sin(2*a) * sin(2*a)) + cos(2*a);
 	z2 = cos(a) * cos(a) + cos(a) * cos(a) * cos(a) * cos(a);//нова гілка а це зміни для коміту в ній 
-	cout << endl;
+	cout << endl;//2 коміт у новій гілці
 	cout << "z1 = " << z1 << endl; // вивід результату z1
 	cout << "z2 = " << z2 << endl; // вивід результату z2
 	cin.get();
