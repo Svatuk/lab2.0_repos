@@ -17,8 +17,9 @@ int main()
 	z2 = cos(a) * cos(a) + cos(a) * cos(a) * cos(a) * cos(a);
 	cout << endl;
 	cout << "z1 = " << z1 << endl; // вивід результату z1
-	cout << "z2 = " << z2 << endl; // вивід результату z2
+	//cout << "z2 = " << z2 << endl; // вивід результату z2
 	cin.get();
 	return 0;
 }
 // текст для зміни 2 
+//зміни для коміту 3 у головній гілці
